@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "numberOfItems": "2",
+  "itemListElement": [
+    {
+      "@type": "PropertyValue",
+      "name": "clientId",
+      "value": "12345"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "clientSecret",
+      "value": "54321"
+    }
+  ]
+}
